@@ -1,0 +1,1 @@
+Reimplementation of jkosz.com as a rails app
